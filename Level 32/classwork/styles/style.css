@@ -1,0 +1,12 @@
+body{
+    background-image: url(../asset/gifs/HATsk2o.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
