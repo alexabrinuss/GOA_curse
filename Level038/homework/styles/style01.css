@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "Roboto";
+    src: url(/fonts/Roboto_Flex/RobotoFlex-VariableFont_GRAD\,XOPQ\,XTRA\,YOPQ\,YTAS\,YTDE\,YTFI\,YTLC\,YTUC\,opsz\,slnt\,wdth\,wght.ttf);
+}
+body{
+    height: 100%;
+    background-image: url(../asset/photos/toko.png);
+    background-repeat: no-repeat;
+    width: cover;
+}
+
+h1{
+    font-family: "Roboto";
+}
+p{
+    font-family: "Roboto";
+    font-size: small;
+}

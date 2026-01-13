@@ -1,0 +1,57 @@
+@font-face{
+    font-family: "Roboto";
+    src: url(/fonts/Roboto_Flex/RobotoFlex-VariableFont_GRAD\,XOPQ\,XTRA\,YOPQ\,YTAS\,YTDE\,YTFI\,YTLC\,YTUC\,opsz\,slnt\,wdth\,wght.ttf);
+}
+body{
+    height: 100vh;
+    background-color: aliceblue;
+}
+h1{
+    font-family: "Roboto";
+    color: aliceblue;
+    font-size: small;
+}
+.head{
+    height: 67px;
+    background-color: rgb(19, 43, 162);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pics{
+    height: 110px;
+    background-color: rgb(255, 255, 254);
+    border-radius: 15px;
+    box-shadow: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;    
+}
+
+img{
+    height: 60%;
+    border-radius: 22px;
+    transition: 0.5s;
+}
+.JD{
+    width: 100%;
+    background-color: rgb(19, 43, 162);
+    color: aliceblue;
+    height: 70px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-family: Roboto;
+    font-size: small;
+}
+img:hover{
+    height: 70%;
+
+}

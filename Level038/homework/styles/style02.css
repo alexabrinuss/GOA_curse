@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "Roboto";
+    src: url(/fonts/Roboto_Flex/RobotoFlex-VariableFont_GRAD\,XOPQ\,XTRA\,YOPQ\,YTAS\,YTDE\,YTFI\,YTLC\,YTUC\,opsz\,slnt\,wdth\,wght.ttf);
+}
+h1{
+    font-family: "Roboto";
+}
+img{
+    height: 120px;
+    width: 150px;
+}
